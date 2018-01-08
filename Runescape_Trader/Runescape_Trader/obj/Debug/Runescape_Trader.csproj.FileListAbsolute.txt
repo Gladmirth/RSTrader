@@ -1,0 +1,11 @@
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\Runescape_Trader.exe.config
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\Runescape_Trader.exe
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\Runescape_Trader.pdb
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\WebDriver.dll
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\WebDriver.Support.dll
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\WebDriver.xml
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\bin\Debug\WebDriver.Support.xml
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\obj\Debug\Runescape_Trader.csprojResolveAssemblyReference.cache
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\obj\Debug\Runescape_Trader.csproj.CoreCompileInputs.cache
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\obj\Debug\Runescape_Trader.exe
+C:\Users\Erin\source\repos\Runescape_Trader\Runescape_Trader\obj\Debug\Runescape_Trader.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runescape_Trader", "Runescape_Trader\Runescape_Trader.csproj", "{A0268CA2-F3F5-4659-B0EC-97675AD20BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0268CA2-F3F5-4659-B0EC-97675AD20BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0268CA2-F3F5-4659-B0EC-97675AD20BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0268CA2-F3F5-4659-B0EC-97675AD20BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0268CA2-F3F5-4659-B0EC-97675AD20BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12600005-B443-4C23-AC23-5FA733E39E30}
+	EndGlobalSection
+EndGlobal
